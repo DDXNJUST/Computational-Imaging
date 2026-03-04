@@ -18,7 +18,7 @@
 
 
 2.数据集
-| 方法 | 论文标题 |
+| 数据集 | 下载链接 |
 |:----:|:----:|
 |CAVE|https://cave.cs.columbia.edu/repository/Multispectral|
 |KAIST|https://vclab.kaist.ac.kr/siggraphasia2017p1/kaistdataset.html|
