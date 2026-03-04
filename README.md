@@ -10,8 +10,8 @@
 | SPECAT | Specat: Spatial-spectral cumulative-attention transformer for high-resolution hyper- spectral image reconstruction | CVPR | 2024 |[论文](https://ieeexplore.ieee.org/document/10657166)|[代码](https://github.com/THU-luvision/SPECAT) |
 | DGSMP | Deep Gaussian scale mixture prior for spectral compressive imaging | CVPR | 2021 |[论文](https://arxiv.org/abs/2103.07152)|[代码](https://github.com/TaoHuang95/DGSMP) |
 | HerosNet  | Herosnet: Hyperspectral explicable reconstruction and optimal sampling deep network for snapshot compressive imaging | CVPR | 2022 |[论文](https://arxiv.org/abs/2112.06238)|[代码](https://github.com/jianzhangcs/HerosNet) |
-| DAUHST | 24.0 | 容器化 | 2022 |[论文]()|[代码](https://github.com/caiyuanhao1998/MST) |
-| PADUT  | 24.0 | 容器化 | 2023 |[论文]()|[代码](https://github.com/MyuLi/PADUT) |
+| DAUHST | Degradation-aware unfolding half-shuffle transformer for spectral compressive imaging | NeurIPS | 2022 |[论文](https://dl.acm.org/doi/10.5555/3600270.3603006)|[代码](https://github.com/caiyuanhao1998/MST) |
+| PADUT  | Pixel adaptive deep unfolding transformer for hyperspectral image reconstruction | ICCV | 2023 |[论文](https://ieeexplore.ieee.org/document/10377584)|[代码](https://github.com/MyuLi/PADUT) |
 | RDLUF | 24.0 | 容器化 | 2023 |[论文]()|[代码](https://github.com/ShawnDong98/RDLUF_MixS2) |
 | S2Former | 24.0 | 容器化 | 2025 |[论文]()|[代码](https://github.com/Jiamian-Wang/S2-transformer-HSI) |
 | LADE-DUN | 24.0 | 容器化 | 2024 |[论文]()|[代码](https://github.com/Zongliang-Wu/LADE-DUN) |
