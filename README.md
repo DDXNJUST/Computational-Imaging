@@ -1,5 +1,4 @@
 # Computational-Imaging
-# Computational-Imaging
 计算成像（Computational Imaging）
 
 1.方法
