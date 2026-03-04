@@ -12,6 +12,6 @@
 | HerosNet  | Herosnet: Hyperspectral explicable reconstruction and optimal sampling deep network for snapshot compressive imaging | CVPR | 2022 |[论文](https://arxiv.org/abs/2112.06238)|[代码](https://github.com/jianzhangcs/HerosNet) |
 | DAUHST | Degradation-aware unfolding half-shuffle transformer for spectral compressive imaging | NeurIPS | 2022 |[论文](https://dl.acm.org/doi/10.5555/3600270.3603006)|[代码](https://github.com/caiyuanhao1998/MST) |
 | PADUT  | Pixel adaptive deep unfolding transformer for hyperspectral image reconstruction | ICCV | 2023 |[论文](https://ieeexplore.ieee.org/document/10377584)|[代码](https://github.com/MyuLi/PADUT) |
-| RDLUF | 24.0 | 容器化 | 2023 |[论文]()|[代码](https://github.com/ShawnDong98/RDLUF_MixS2) |
-| S2Former | 24.0 | 容器化 | 2025 |[论文]()|[代码](https://github.com/Jiamian-Wang/S2-transformer-HSI) |
-| LADE-DUN | 24.0 | 容器化 | 2024 |[论文]()|[代码](https://github.com/Zongliang-Wu/LADE-DUN) |
+| RDLUF | Residual degradation learning unfolding framework with mixing priors across spectral and spatial for compressive spectral imaging | CVPR | 2023 |[论文](https://ieeexplore.ieee.org/document/10204755)|[代码](https://github.com/ShawnDong98/RDLUF_MixS2) |
+| S2Former | S2-Transformer for Mask-Aware Hyperspectral Image Reconstruction | TPAMI | 2025 |[论文](https://ieeexplore.ieee.org/document/10899382)|[代码](https://github.com/Jiamian-Wang/S2-transformer-HSI) |CVPR
+| LADE-DUN | Latent diffusion prior enhanced deep unfolding for snapshot spectral compressive imaging | ECCV | 2024 |[论文](https://link.springer.com/chapter/10.1007/978-3-031-73414-4_10)|[代码](https://github.com/Zongliang-Wu/LADE-DUN) |ECCV
