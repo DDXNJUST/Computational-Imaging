@@ -15,3 +15,13 @@
 | RDLUF | Residual degradation learning unfolding framework with mixing priors across spectral and spatial for compressive spectral imaging | CVPR | 2023 |[论文](https://ieeexplore.ieee.org/document/10204755)|[代码](https://github.com/ShawnDong98/RDLUF_MixS2) |
 | S2Former | S2-Transformer for Mask-Aware Hyperspectral Image Reconstruction | TPAMI | 2025 |[论文](https://ieeexplore.ieee.org/document/10899382)|[代码](https://github.com/Jiamian-Wang/S2-transformer-HSI) |CVPR
 | LADE-DUN | Latent diffusion prior enhanced deep unfolding for snapshot spectral compressive imaging | ECCV | 2024 |[论文](https://link.springer.com/chapter/10.1007/978-3-031-73414-4_10)|[代码](https://github.com/Zongliang-Wu/LADE-DUN) |ECCV
+
+
+2.数据集
+| 方法 | 论文标题 |
+|:----:|:----:|
+|CAVE|https://cave.cs.columbia.edu/repository/Multispectral|
+|KAIST|https://vclab.kaist.ac.kr/siggraphasia2017p1/kaistdataset.html|
+|ICVL|https://icvl.cs.bgu.ac.il/hyperspectral|
+
+3.评价指标
