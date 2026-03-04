@@ -1,5 +1,4 @@
-# Computational-Imaging
-计算成像（Computational Imaging）
+# 计算成像（Computational Imaging）
 
 1.方法
 | 方法 | 论文标题 | 期刊或会议 | 年份 | 论文 | 代码 |
