@@ -25,3 +25,10 @@
 |ICVL|https://icvl.cs.bgu.ac.il/hyperspectral|
 
 3.评价指标
+如文件夹“Quality_Metrics”中所示，包含以下评价指标：
+峰值信噪比（peak signal to noise ratio，PSNR）
+结构相似度（structural similarity index metric，SSIM）
+光谱角（spectral angle mapper，SAM）
+均方根误差（root mean square error，RMSE）
+空谱全局误差（erreur relative globale adimensionnelle de synthèse，ERGAS）
+结构相关指数（structural correlation coefficient，SCC）
